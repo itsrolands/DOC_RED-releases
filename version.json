@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "min_supported_version": "2.0.0",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/latest/download/DOC_RED.exe",
+  "release_notes": "Hardened Word COM with cross-process mutex and interactive in-app updates."
+}
