@@ -1,1 +1,1 @@
-# docred-dist
+# DOC_RED-releases
