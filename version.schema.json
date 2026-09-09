@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/itsrolands/DOC_RED-releases/main/version.schema.json",
+  "title": "DOC_RED Release Manifest",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["schema_version", "version", "min_supported_version", "download_url", "update_policy", "release_state"],
+  "properties": {
+    "schema_version": {"type": "integer", "minimum": 1},
+    "product": {"type": "string", "const": "DOC_RED"},
+    "version": {"type": "string", "pattern": "^v?[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?(?:\\+[0-9A-Za-z.-]+)?$"},
+    "min_supported_version": {"type": "string", "pattern": "^v?[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?(?:\\+[0-9A-Za-z.-]+)?$"},
+    "download_url": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "sha256": {"type": "string", "pattern": "^[0-9a-fA-F]{64}$"},
+    "size_bytes": {"type": "integer", "minimum": 1024},
+    "update_policy": {"enum": ["optional", "recommended", "required", "blocked"]},
+    "release_state": {"enum": ["pending", "ready", "published"]},
+    "release_channel": {"enum": ["stable", "beta", "canary"]},
+    "release_notes": {"type": "string"},
+    "message": {"type": "string"},
+    "support_url": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "published_at": {"type": "string"},
+    "signature_required": {"type": "boolean"},
+    "signature": {"type": "string"}
+  }
+}
