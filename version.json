@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "2.5.0",
-  "min_supported_version": "2.5.0",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.5.0/DOC_RED.exe",
+  "version": "2.4.0",
+  "min_supported_version": "2.4.0",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.4.0/DOC_RED.exe",
   "update_policy": "optional",
   "release_state": "published",
   "release_channel": "stable",
   "release_notes": "Features: Conventional Commits automated SemVer bumping and auto-changelog in build pipeline; auto-update version.json and git push on every build; Word COM mutex hardening, SafeLogger fix, zombie sweeper, and Strategy 3 GitHub auto-updater | Fixes: bundle rich.prompt in PyInstaller, add resilient fallback, and optimize Word COM conversion speed 5x; make startup banner subtitle dynamically display CURRENT_VERSION",
-  "message": "DOC_RED 2.5.0 is the current stable release.",
+  "message": "DOC_RED 2.4.0 is the current stable release.",
   "support_url": "https://github.com/itsrolands/DOC_RED",
   "published_at": null,
   "signature_required": false
