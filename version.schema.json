@@ -3,8 +3,8 @@
   "$id": "https://raw.githubusercontent.com/itsrolands/DOC_RED-releases/main/version.schema.json",
   "title": "DOC_RED Release Manifest",
   "type": "object",
-  "additionalProperties": true,
-  "required": ["schema_version", "version", "min_supported_version", "download_url", "update_policy", "release_state"],
+  "additionalProperties": false,
+  "required": ["schema_version", "product", "version", "min_supported_version", "download_url", "update_policy", "release_state", "signature_required"],
   "properties": {
     "schema_version": {"type": "integer", "minimum": 1},
     "product": {"type": "string", "const": "DOC_RED"},
@@ -19,8 +19,23 @@
     "release_notes": {"type": "string"},
     "message": {"type": "string"},
     "support_url": {"type": "string", "format": "uri", "pattern": "^https://"},
-    "published_at": {"type": "string"},
+    "published_at": {"type": ["string", "null"]},
     "signature_required": {"type": "boolean"},
-    "signature": {"type": "string"}
-  }
+    "signature": {"type": "string", "pattern": "^[A-Za-z0-9+/]+={0,2}$"}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"release_state": {"enum": ["ready", "published"]}}},
+      "then": {
+        "required": ["sha256", "size_bytes", "signature", "signature_required"],
+        "properties": {"signature_required": {"const": true}}
+      }
+    },
+    {
+      "if": {"properties": {"release_state": {"const": "published"}}},
+      "then": {
+        "required": ["published_at"]
+      }
+    }
+  ]
 }
