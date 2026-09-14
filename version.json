@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "2.5.1",
-  "min_supported_version": "2.5.0",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.5.1/DOC_RED.exe",
+  "version": "2.5.2",
+  "min_supported_version": "2.5.1",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.5.2/DOC_RED.exe",
   "update_policy": "optional",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "DOC_RED v2.5.1 released automatically from Conventional Commits.",
+  "release_notes": "DOC_RED v2.5.2 released automatically from Conventional Commits.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": false,
-  "sha256": "cd5efea6d2568b1a29d9be9522662d309bc9e8f510356ed8c9c714f423568a73",
-  "size_bytes": 71195258
+  "sha256": "02b5aa5c6255d51dc3c817cfe517e6a302f5ee2044256407e86f80bf3d6f6295",
+  "size_bytes": 71199981
 }
