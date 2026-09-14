@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "2.5.3",
-  "min_supported_version": "2.5.2",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.5.3/DOC_RED.exe",
-  "update_policy": "optional",
+  "version": "2.6.0",
+  "min_supported_version": "2.5.3",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.6.0/DOC_RED.exe",
+  "update_policy": "recommended",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "DOC_RED v2.5.3 released automatically from Conventional Commits.",
+  "release_notes": "DOC_RED v2.6.0 released automatically from Conventional Commits.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "ff340b7997cbf0d3ab8de6427542b47ad4503085f36f859a6bbb4b5701822b0b",
-  "size_bytes": 71199254,
-  "signature": "TnzcC9EuiRxfjVX6TTyqxJMxx1PXn6cpMbmBG8CQjjOTs9TQUJXEfPwWTQ6GipTppo8VhZC8gpZSIFBWHEWHKXqRMiWehNODtKspjxpjio1kKqARet21CIWzp71lrp/VLGzY1TkbVm7QYSBbyh7kG9xlbLPPuALoCqN7b/sIgyHG62RzJpvM8wQvlTZIZhGYkMHOWGYDeE4ZGxZ6R6gildr6JxAWQwDwuzGpy0QAD+yy3gRIWbRC3xsjARHwNSnmER4c1lN6n4+bAWP5yCZXZFxbvi8fFVxRILIAxaMfS40S+LSxlHgZSZ37YKg/qniFtJDoU35OSLpEXGc/JGp8iZI6aM8/pcHwDOeOuZgFDodtNbQ8tpSiIrLBh4sGljqUdqXyWbqztMf7UnyOGszlOuEZAqUu57p4i0bBmreMF8lAEQQgRE02puFJVp7PHERi98wZtWaO+16TD2GI0ecR/xMKSepxBvIfoNY33FsOdDDliXikrdd9K05Jk32dI/FC"
+  "sha256": "2fd9306e94c6a63c6dbd21946d5e8296be1217d6a5f990dd91ed6ae0251fa53f",
+  "size_bytes": 71215197,
+  "signature": "hf56MKURDEs/YtWRs7gMzwE4RkvqAo6p4gGNtSyrunUblT/7HLHKRNB6EMkbxFt7Gl0BRLCk7xAbI6evptaNGywXc/z64ZKrfynYmyBDdYATisEcw1qmPYwgNtPANnzl1EB+NkwRKBrDBaZXlLr4n+7O0nnUkWRzLUy2BM05mdacgPy1Dm/AyG+8t/yLCUI1zTcjLDdLt8k8PIdmbSsDSWZ3OZKcLA9YjjGC+ZxuWX9Qdl3kxlUAeFQr7m+ZBhMJl6i97CaohfpT3E1I+puvlbt09i5tO/nXP0zOIDAN8CMc5LHw6iORcY4GGT2KgPB/mnNvwnB9KdfwK2DXob2cGARB/ylpshqnLZniKVOBOO+GuKGX+CzX9/ZhOHlY5OcFM+pbmL9tXwZDTWNEnMO84rlmcl4oBlOUnewWLYLCup8aR4h40GmqjF+SD2B2sx5cD5YmpjnZoQCSXILdNQbMpDUdz/Nl/LD+PBrS+PFyJeXc/3oXi5bbVHR3pCHoxeqb"
 }
