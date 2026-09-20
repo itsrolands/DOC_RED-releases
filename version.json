@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "2.13.4",
-  "min_supported_version": "2.13.3",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.13.4/DOC_RED.exe",
-  "update_policy": "optional",
+  "version": "2.14.0",
+  "min_supported_version": "2.13.4",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v2.14.0/DOC_RED.exe",
+  "update_policy": "recommended",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "DOC_RED v2.13.4 released automatically from Conventional Commits.",
+  "release_notes": "DOC_RED v2.14.0 released automatically from Conventional Commits.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "c92ed439dd65a7249a14a6bf0d364052d93c13536aa202d4fa8ea14163a0fac6",
-  "size_bytes": 110583405,
-  "signature": "E6VWd3DMb67A8i5D0W9G0DP4W+I+82SB1Mr0Zm9ajJqR9nvZgDjjYXSOCua/YA1XwXZu6X7wrxQqmmlNBLYjhBYgosiAocjjbdSX+Z20vcyhfKWpDxRE17IuF8Gv/XffLhAH/8Yh37DP55s0717RM0Ec2oHHbc4YPXc0zb5aUkxqmipqRvwjWOyIDjUArT7hS5owz61mpWFAm3e1n8mrg50jf3cNJbiSr1zK0nSLFR4/E4YQ9NCBAGP8Smppt+xw81FJ0+yOA+34zpgb/wwesM71ZK63AAdd1nuG4yJUZhFK2RwwLOGf7hybY1W8HIEdBSD219WDBv8bPeXllax9zQ=="
+  "sha256": "59a72713f190b63430f7fad26aa769802ddc2707e329c8048f65a9ed21f658b0",
+  "size_bytes": 110613756,
+  "signature": "hxrKX3Lur7whbZuV+1ApYWvK0OM328ke0juksOvaK/XP3NPUxv3abLtDbzjsA7EiRktXPh/eDW3/OT5NyQgZJvBdfH0PatKSMTe0hzyBQq+qTskcgxJz6w8bKc3LvylkrlL+FSF1YzsuVV+d7uiycdwZji0Jwp3rx5tAnvVHxdCKwjt05ISAUZpzfGplvD11tgoQ2bYtZIxX6fuyE2BewDVGof7ux+CvAORoDE/tr9PdCAa5Gi1TqzmiJRCegPJ89mUgQpJh/cNdI55AEoZgcnGmOYvUoBLx6vTgFt/NvQvgngpuP3FIsbJHKBK607Gk//1s+3pZR9g3hyFjky9TCw=="
 }
