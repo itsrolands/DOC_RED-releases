@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "4.0.0",
-  "min_supported_version": "3.0.0",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v4.0.0/DOC_RED.exe",
-  "update_policy": "required",
+  "version": "3.1.0",
+  "min_supported_version": "3.0.4",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.1.0/DOC_RED.exe",
+  "update_policy": "recommended",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "Security hardening and major architectural enhancements.",
-  "message": "DOC_RED v4.0.0 is available. Please update to continue.",
+  "release_notes": "Bug fixes: account vault path, Google SSO, countdown spam, loop_state import",
+  "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "22cc3deb695aa98cde34551494896ca5a757799937c87b0beb5a2e586e187b30",
-  "size_bytes": 111726444,
-  "signature": "b8uacdHSZcaQTwEQqbqlbxWRVLeK6g9mVLN/fcRzhm7qpwDmtrERGkVziQt5ok2nH+nH1CUz23tqQzwGv2i3t3Vm75vVJMJuUW100kRfWGcjAb0GVfeyoPKv5qh/beLquZaJ+xqYl3/GEzgJRvYsw09Q35u+tc/NG2zgfmywkZqLl8INZTPy5No3jKX0awnfjt2N/ZeZZrAf/ESwi4CiFF6QANtmUxYOuAutEAnfQwv33RXNPdxseh+g0i6BSNsotHt5w9ufq5ejZKAnRTrUmnIU0/sfjk/trKycRsA/HbVljjWP8Q2V0y0O/1r+uVoM7rSOtvIEzpSl5AOFlAywoA=="
+  "sha256": "06467c3919186b1fd2e1eefdd2fd28eb574d9eaede1e3e8125db38bbf0ccffb3",
+  "size_bytes": 114105879,
+  "signature": "D3Q2LDSdH65Ch4FJE4glkEJwOzy27nbI+GNyPQ918VQXbOxOLrY1J2cI2xh0zl6vMs4q/uBLIlVfTqoPT2ynx5yZeVsLoERgH/AtOvE3pJ7RkpacpKsODwQkRpIp9kwj+O02lBiB8EiEL90aQYkYR3PK6Lw5tc8rv6rVjIL+GVvrPPYuvTxiSR2XZZvsGDSrIl7QKZlbJcaDx/ziJKCWUaAA/RIT1Gir6aQhsRJeWggnk8LegM0GbVnLcoS67pl60/4iYAY2ShRLX5mMuu8AQ2DmOWCLGd1xmLrUkqgIdVxVfY89yDwfewn8wVEzhy0FIV7SrXkbEXEwzgb3/6jw2w=="
 }
