@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "3.2.0",
-  "min_supported_version": "3.2.0",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.2.0/DOC_RED.exe",
+  "version": "3.3.0",
+  "min_supported_version": "3.3.0",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.3.0/DOC_RED.exe",
   "update_policy": "recommended",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "Features: upgraded production version — native parsers, enterprise pipeline, platform uploaders, and hardening; fully integrate seo_engine, price_optimizer, upload_verifier into pipeline; implement all 20 performance, reliability, intelligence and architecture improvements | Fixes: prevent byte stripping on binary DPAPI keyfile and harden CI push loops; always update keyfile on key rotation; harden test isolation; add fetch+rebase retry loop to CI push steps to prevent race condition failures; correct support_url from private repo to public releases repo in build script and CI workflow; support tier param in issue_license and handle optional admin secret in cloud sync; production readiness — /help, /health, error handler, validations, version; invalid escape sequence in /issue usage string; functional gap audit — wire new modules, fix @staticmethod, /issue args; guard all None-slice bugs found in comprehensive bug scan; /list command crashes on None expiry fields from cloud response; _admin_request in license_admin.py crashes when _make_ssl_context returns None; show actual cloud error in /list instead of generic 'unavailable'; telegram bot reads credentials from build.env instead of telegram.env; add loop_license columns to D1 schema; patch remaining DEFAULT_ADMIN_SECRET empty-string fallbacks in license_admin; sync licensing and updater test assertions with security hardening",
+  "release_notes": "Features: release v3.2.0 — enterprise pipeline, native parsers, and build updates; upgraded production version — native parsers, enterprise pipeline, platform uploaders, and hardening; fully integrate seo_engine, price_optimizer, upload_verifier into pipeline; implement all 20 performance, reliability, intelligence and architecture improvements | Fixes: Console.print() flush kwarg crash and cp1252 unicode error in auto-upload countdown prompt; include loop_state and 10 reliability/intelligence modules in build; prevent byte stripping on binary DPAPI keyfile and harden CI push loops; always update keyfile on key rotation; harden test isolation; add fetch+rebase retry loop to CI push steps to prevent race condition failures; correct support_url from private repo to public releases repo in build script and CI workflow; support tier param in issue_license and handle optional admin secret in cloud sync; production readiness — /help, /health, error handler, validations, version; invalid escape sequence in /issue usage string; functional gap audit — wire new modules, fix @staticmethod, /issue args; guard all None-slice bugs found in comprehensive bug scan; /list command crashes on None expiry fields from cloud response; _admin_request in license_admin.py crashes when _make_ssl_context returns None; show actual cloud error in /list instead of generic 'unavailable'; telegram bot reads credentials from build.env instead of telegram.env; add loop_license columns to D1 schema; patch remaining DEFAULT_ADMIN_SECRET empty-string fallbacks in license_admin; sync licensing and updater test assertions with security hardening",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED-releases",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "29303db04a754c1008e98d723c1b74223355056c6b0f49b1499f024768c647d2",
-  "size_bytes": 114678768,
-  "signature": "SHCETgexYfXigrLmniXWTN67wuBKUefanTmcdDYEeRIPwk1qbi7TP/mhxTX+jy0Jiv7SenXn3AdfhzcLYXC6xtnoKVKsyGpshMu/Qte2suhd7XgQY0ozYA9P7uCykidIR/aGSLKYs9RxapUsjCd8xtzF8hRFSAJyaJtEPRZ5hTNTf8TlyyPBmr4GLXwk4U6ADtPwXx8X9U1LSFZE/5IdP2fQLTWdlrrS7sri0sh747kj3TtpMKkEWm5sxFiv7NxnIETcjRewsyBK0N1PvqWlJtKCqAjZ8SXs90tgeYchIVa1aN3HIzpkasH4ipjqezDYXvOck04rxfQ4oNKSq5DhgQ=="
+  "sha256": "59f9ba77e960957d32b5f767e3964f0308653fe0698e2bc97e4deb16ea0edf22",
+  "size_bytes": 114696890,
+  "signature": "Ey0hzieNCbu8e/NnN13P6C0dffxIT+sLGcpW/UtrzYktkoPLRD68/7XNwxw2J12u9iPpttaMywzw65gEnlBqGIyXb9OSp9JioJCNWs7rZIb9S5wUTuPQLP8CGAElaYqW1APG+kt2SQFBbQncMGZmsrf1K3SxzjgkhZZyl15oMd85hcBH5+9Ig222C9YcjJiMRHQX3uUPW/6QBlxVtWthuh9y4lMXT4aFmf4HHjiGBkCQcSpQNH814eMtcw/k8A04rP3p+Ns0BEyBMRImZWTrDprqBGQD9Fl73bdc6Lbd3a0rZE8vmlR2UorANVuSQTEIHfcc6/nazfEFElribPJN4g=="
 }
