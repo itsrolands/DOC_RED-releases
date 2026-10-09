@@ -7,12 +7,12 @@
   "update_policy": "optional",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "DOC_RED v3.6.13 released automatically from Conventional Commits.",
+  "release_notes": "Fix: resolves startup crash (No module named '_main_core') in v3.6.12 build. Clean rebuild with stage verification.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED-releases",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "bcc8b791a49525d9dd2e3169922da5c458d3de2085d3ed73f817dace62692b32",
-  "size_bytes": 112395454,
-  "signature": "P2+7dsxD6yQhEdsjHttwJJAwC7H6rBFQlqBy1Dp95pTFPNKBfJQl6wg+ri+JjOmqNUbQZ0dG1wIWdkUlSZaECH2KALVvW1DHcm908XjPovMS243KiTpiPQV8WOg6grz7dfkXDRT8O8kGmqgDkj8KyRO7D5KB69EfatnfRinzZENg9MDy7NwwZHlsRgLQkDu1+Bsolhvy3FLMMlSbf0ELWTrunQ4JCqhp8/n3V8mNJcGT4Yh5IGv7uY3rD3OVgajM0PXT99NJa/A1cCxeWncUCKOtVLgcTLVRkaZBNUqtgBrl870hQ1Kzii+C7vLGM/VQeG5OLBUosJwRLEQkutPjkw=="
+  "sha256": "5cbb1ff06e25956b4f100b98b226e719f0613b342ce1678fb7a079665c6034ca",
+  "size_bytes": 112394328,
+  "signature": "kw1dwRxEPSQHJMa7jF1Cay7fmtI+SjfIvO4KQNTS4dCajNsVrNtPXZ7WN1hFr0CIhjoI8gs135jZo8dvruvICyecksFTE0dNL9CDJTQ1ZHExbSWNtlb5tOIYiMudburpLy8iABAEGpmGBq08THW5hLXycXSqI16voZqNn9+/tCTw1BwfFha9XWyVkxp7+za77WrlQ9H1PAktH1yytHRMmuvcV6IE/uVRBX5aOC7r8tpfOUaDn8jzShbnx1ziKnGEbVOZMdEr+JvlgQ32FayWukrg+50FnVsxYx2KQTr9yLi92GuifN4r+lK+Avmb46EkDNkJeOwa8pcmfsvWkc7QDw=="
 }
