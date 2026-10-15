@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "3.6.13",
-  "min_supported_version": "3.6.12",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.6.13/DOC_RED.exe",
+  "version": "3.6.14",
+  "min_supported_version": "3.6.13",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.6.14/DOC_RED.exe",
   "update_policy": "optional",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "Fix: resolves startup crash (No module named '_main_core') in v3.6.12 build. Clean rebuild with stage verification.",
+  "release_notes": "DOC_RED v3.6.14 released automatically from Conventional Commits.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED-releases",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "1d3a06cccb3b7282da3a3ebfb042aa8929c72ae1fa3741dc2608da9d5e03831f",
-  "size_bytes": 172106414,
-  "signature": "Oq8XHooj63tY4Hu5RwxFTD+vxPZHY2XeQGKIzujizDDpgEE9FTFLP77WUM7cE6DB3jWyu2gwEGKltphiZh5Zkkyhgn4ilVCr4Rnt8MggpkBK9ovSYxbbaavebGMVXCJ5KGEeZOl5XAGewzfF3vkDPUjmYNQ/rHbdeCs3MGYDk9Jq+J47Y2JoWVKLX340F0Mb3PT7a+8+E68PAQDDoT89CizUTnHeCxrYPJrVS5h5cMfctsZB1NafuZH/Xk2PjR+nrSJmy3YylKw4g5hymen5R3Nh2JDfoJ40EzEG9gKJ017JXr9zVvij6qcWAHSZ0cJNu4YLiKbWzN8rEiNqEko6DA=="
+  "sha256": "d4b86aa0f04eb7920c957bc9035d1406b6eb9f899904b026451f96d2ebb066ca",
+  "size_bytes": 172106617,
+  "signature": "fs5/bwcmQkMSaVei2SZmsT3hVQuJzed9FpjoNd8PhXXNlxafcEQAL7mmQFnhF5B1ltzegnTgdYCgszaNr6YM1VPSsu4B4O1Jmumws4UZNkM+0E6EjmqHryddYnibzM5kARaOKIWN/MbMOmQ/b6ZtGwB5bFX2pq7VWzcEHUEpEM1VTXygZWDe+T8zZRonynRqvAqCJaQ4OCnUv7fXRj9eDjfFByZvxPoZ9PVQ+xLkHpFRHFgLwXMPBFz/OLTpwF9KI03BwWXYyGfPzIkyvluuUygIQb6tHnp8jL+yauZgLJn9N4xfN6cMTKfqAqNeLLmcCORIGQL7L+WM5/gNSRMXgg=="
 }
