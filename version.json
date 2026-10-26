@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "product": "DOC_RED",
-  "version": "3.6.42",
-  "min_supported_version": "3.6.41",
-  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.6.42/DOC_RED.exe",
+  "version": "3.6.43",
+  "min_supported_version": "3.6.42",
+  "download_url": "https://github.com/itsrolands/DOC_RED-releases/releases/download/v3.6.43/DOC_RED.exe",
   "update_policy": "optional",
   "release_state": "published",
   "release_channel": "stable",
-  "release_notes": "DOC_RED v3.6.42 released automatically from Conventional Commits.",
+  "release_notes": "DOC_RED v3.6.43: institutional quality curation, 76-university question banks, runtime bug fixes (import crash, Rich markup, duplicate docs, harvest, cover page), channel scheduler fix.",
   "message": "A new DOC_RED release is being prepared.",
   "support_url": "https://github.com/itsrolands/DOC_RED-releases",
   "published_at": "generated-by-authoritative-workflow",
   "signature_required": true,
-  "sha256": "a6964d72c770d68fc154628c54f84d51783df1da10570394c30c940ca9a29a22",
-  "size_bytes": 172327679,
-  "signature": "TuClk1yMGfuc3L1P88Q9M88aQDza7NwZr/GAhrPRyWbzivYdVhtLuI96DEMFQCYCDNVTN3uTyE7iqMlDRYfceUOwmu9z361D6hBMvrGBExq278nza9WhYe0AMzQwsjLvW9IYQHfjlq7QZtlDGTN7L3DJ+I0jVjieWLyNaavoO0zC1bWD63oHp0fZzKuWkRtYdM6iRiDdEzWz5KeVlYujE73V6sCM6ny8iWS0fLyoN9PIONzp3sAUNE6jLOlYddObEbNJLGCMEF5ge5f4T3uLdkx+WnfM2pEJDAmJv6JsUOj0gk5rl2ixJwmQQPYE1YjQDvTRgFAMnCL6ptda7imEYg=="
+  "sha256": "2d4c74b6b6a900a45f86bce11b5d00369196878c696d1b0ac3a19bb097c82a8e",
+  "size_bytes": 173630532,
+  "signature": "Hrw2L0WVasXDadHUrAkjctUBAayMy+xkwcLUus1uiowkB2YS0zUKG+1QWIhu+9YyXrb1VScdeILOPAaQeSYPeWZCR69nvWWXR7YAaVOWTo+zuXWTIhRgWSkxleTHWfE4Oc3sdTQSnKtJQyORKKd3kwm3oHMQkrrP8ksJvl2TWaXJ9nMB2bvcYlAggkhEk7H0k7GyczHN6gXYZqXtI9Z4unHU/rKEpuivgcpiYfc8QuSQBwxO5WbXl4zGLAVBrkdA/pfxpZOLwGNjn/rECIG8IkGu9ezen3npnNFRs09PxsaeQpQlTtNg8nb9muz9vh+eSpogmISo3sk24b+QiTA+fA=="
 }
